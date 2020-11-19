@@ -344,12 +344,11 @@ section {
 
 .section-4-table {
     border-collapse: collapse;
-    margin: 25=px 0;
+    margin: 25px 0;
     font-size: 2rem;
     min-width: 400px;
     border-radius: 5px 5px 0 0;
     overflow: hidden;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
 }
 
 .section-4-table thead tr {
@@ -431,7 +430,7 @@ section {
 }
 
 .section-5-column-wrapper {
-    flex: display;
+    display: flex;
     flex-direction: column;
 }
 
