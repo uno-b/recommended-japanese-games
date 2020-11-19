@@ -217,7 +217,7 @@ section {
 }
 
 .section-2-wrapper {
-    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .3)), url(../resources/the-legend-of-heroes.jpg), center no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, .7), rgba(0, 0, 0, .3)), url(../resources/legend-of-heroes.jpg), center no-repeat;
     background-size: cover;
 }
 
