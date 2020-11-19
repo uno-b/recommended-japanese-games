@@ -78,3 +78,11 @@ document.querySelector(".right-btn").addEventListener("click", () => {
             "scale(1.2)";
     }
 });
+
+var loader = document.querySelector(".loader")
+
+window.addEventListener("load", vanish);
+
+function vanish() {
+    loader.classList.add("disppear");
+}
