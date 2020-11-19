@@ -1,8 +1,10 @@
-# recommended-japanese-games
+# Recommended Japanese Games
 
 **Version 1.0.0**
 
 This is a project for the "INF240a_F2020 - Website Development".
+
+---
 
 ## Contributors
 
