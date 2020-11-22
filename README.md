@@ -6,12 +6,6 @@ This is a project for the "INF240a_F2020 - Website Development".
 
 ---
 
-## Contributors
-
-- Unumandakh Bayandelger <bg.unuu@yahoo.com>
-
----
-
 ## License & copyright
 
 Copyright © 2020, [Unumandakh Bayandelger](https://github.com/uno-b/)
