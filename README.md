@@ -4,6 +4,8 @@
 
 This is a project for the "INF240a_F2020 - Website Development".
 
+[Demo](https://upbeat-euler-384ba1.netlify.app/)
+
 ---
 
 ## Contributors
