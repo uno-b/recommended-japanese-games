@@ -1,19 +1,13 @@
 # Recommended Japanese Games
 
-**Version 1.0.0**
-
 This is a project for the "INF240a_F2020 - Website Development".
 
----
-
-## Contributors
-
-- Unumandakh Bayandelger <bg.unuu@yahoo.com>
+[Demo](https://upbeat-euler-384ba1.netlify.app/)
 
 ---
 
 ## License & copyright
 
-© Unumandakh Bayandelger
+Copyright © 2020, [Unumandakh Bayandelger](https://github.com/uno-b/)
 
 Licensed under the [MIT License](LICENSE).
